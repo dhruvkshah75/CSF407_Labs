@@ -1,0 +1,12 @@
+# Python bytecode and interpreter caches
+__pycache__/
+*.py[cod]
+
+# Local Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook automatic checkpoints
+.ipynb_checkpoints/
